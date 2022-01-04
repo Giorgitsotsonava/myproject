@@ -310,3 +310,8 @@ body {
     border-collapse: collapse;
     margin: 20px 0px;
 }
+
+.datails table td {
+    padding: 10px;
+    border: 1px solid #eee;
+}
